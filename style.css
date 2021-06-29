@@ -11,7 +11,19 @@ h5 {
     padding-top: 2%;
     margin-top: 1%;
     
+}
+footer {
+    background-color:#4b423b;
+    color:#3d2b1f;
+    position: relative;
+    bottom: 500px;
+    height: 350px;
     
-    
-
+}
+#footer {
+    display: flex;
+    justify-content: space-between;
+}
+.f3>p>i {
+    color: #00acee;
 }

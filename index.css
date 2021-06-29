@@ -16,7 +16,7 @@ ul {
 .midnav {
     display: flex;
     justify-content: space-between;
-    background-color: grey;
+    background-color:#343434;
     
     height: 80px;
 }
