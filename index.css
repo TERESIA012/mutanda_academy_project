@@ -3,13 +3,43 @@
     justify-content: space-around;
     background-color: black;
     color: #00acee;
-    margin-right: 30%;
+    margin-right: 20%;
 }
-ol {
+li {
  padding-left: 15%;
  margin-right: 10px;
- align-items: flex-end;
+ padding-top: 2%;
 }
 ul {
     padding-left: 47%;
+}
+.midnav {
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+    margin-right: 20%;
+    height: 80px;
+}
+li {
+    list-style: none;
+
+}
+.midnav2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 10%;
+    
+}
+h1 {
+    display: flex;
+    margin-left: 7%;
+    font-size: xx-large;
+    font-weight: bolder;
+    background-color: indianred;
+    width: 4%;
+    padding-left: 2%;
+    height: 60px;
+
+    
 }
