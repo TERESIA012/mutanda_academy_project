@@ -27,6 +27,8 @@ footer {
 #footer {
     display: flex;
     justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 .f3>p>i {
@@ -61,4 +63,9 @@ body {
 }
 .hard>i {
     color: #00acee;
+}
+h6 {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
 }
