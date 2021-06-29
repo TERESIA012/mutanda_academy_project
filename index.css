@@ -67,3 +67,24 @@ img {
     font-size: 18px;
     font-weight: 500;
 }
+#body1 {
+    margin-right: 30%;
+
+}
+.cmd {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    position: relative;
+    bottom: 100px;
+    
+}
+.sdh {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10%;
+    margin-left: 10%;
+    position: relative;
+    bottom: 60px;
+}
