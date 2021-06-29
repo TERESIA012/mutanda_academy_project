@@ -3,43 +3,67 @@
     justify-content: space-around;
     background-color: black;
     color: #00acee;
+
+}
+.l {
+    padding-right: 5rem;
     
 }
+
 li {
- padding-left: 15%;
- margin-right: 10px;
- padding-top: 2%;
+    padding-left: 15%;
+    margin-right: 10px;
+    padding-top: 2%;
 }
+
 ul {
     padding-left: 47%;
 }
+
 .midnav {
     display: flex;
     justify-content: space-between;
-    background-color:#343434;
-    
-    height: 80px;
+    background-color: #343434;
+
+    height: 4rem;
 }
+
+.f {
+    height: 4rem;
+    background-color: indianred;
+    margin-top: -1px;
+    text-align: center;
+    padding-left: 20px;
+    font-size: 4rem;
+    width: 50px;
+}
+
 li {
     list-style: none;
 
 }
+
 .midnav2 {
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding-right: 10%;
-    
+
+
 }
+
 h1 {
     display: flex;
-    margin-left: 7%;
-    font-size: xx-large;
+    font-size: 4rem;
     font-weight: bolder;
     background-color: indianred;
-    width: 4%;
-    padding-left: 2%;
-    height: 60px;
+    align-content: space-between;
+    width: 50px;
+    height: 4rem;
+    margin-left: 5%;
+    padding-left: 20px;
+
+
 }
 
 
@@ -48,9 +72,10 @@ h1 {
     bottom: 220px;
     padding-left: 5%;
     color: white;
-    font-size:20px;
+    font-size: 20px;
     font-weight: 900;
 }
+
 .mininavbar {
     background-color: #87cefa;
     height: 50px;
@@ -65,12 +90,11 @@ h1 {
     font-weight: 500;
     margin-right: 30%;
     margin-left: 30%;
-    
-}
-#body1 {
-    
 
 }
+
+#body1 {}
+
 .cmd {
     display: flex;
     justify-content: space-between;
@@ -78,8 +102,9 @@ h1 {
     margin-left: 10%;
     position: relative;
     bottom: 100px;
-    
+
 }
+
 .sdh {
     display: flex;
     justify-content: space-between;
@@ -88,29 +113,28 @@ h1 {
     position: relative;
     bottom: 60px;
 }
+
 #ge {
     display: flex;
     justify-content: space-between;
-    
-    
-    
-    
+
+
+
+
 }
+
 #mo {
     display: flex;
     justify-content: space-between;
-    
-    
+
+
 }
+
 .body2 {
-    position:relative;
-    bottom:420px;
+    position: relative;
+    bottom: 480px;
     color: white;
     margin-right: 5%;
     margin-left: 5%;
-    
+
 }
-
-
-
-

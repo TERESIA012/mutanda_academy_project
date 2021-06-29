@@ -1,6 +1,7 @@
 h4 {
     text-align: center;
 }
+
 h5 {
     text-align: center;
     background-color: #00acee;
@@ -10,20 +11,54 @@ h5 {
     font-size: 22px;
     padding-top: 2%;
     margin-top: 1%;
-    
+
 }
+
 footer {
-    background-color:#4b423b;
-    color:#3d2b1f;
+    background-color: #4b423b;
+    color: #3d2b1f;
     position: relative;
-    bottom: 500px;
+    margin-top: -500px;
+   /* bottom: 500px;*/
     height: 350px;
-    
+
 }
+
 #footer {
     display: flex;
     justify-content: space-between;
 }
+
 .f3>p>i {
+    color: #00acee;
+}
+body {
+    height: auto;
+}
+.copyright {
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 3rem;
+    padding-top: 10px;
+    margin-top: -20px;
+    
+}
+.commitment>i {
+    color: #00acee;
+}
+.motivation>i {
+    color: #00acee;
+}
+.discipline>i {
+    color: #00acee;
+}
+.spiritual>i {
+    color: #00acee;
+}
+.dev>i {
+    color: #00acee;
+}
+.hard>i {
     color: #00acee;
 }
