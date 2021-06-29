@@ -1,0 +1,15 @@
+.icons1 {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: #00acee;
+    margin-right: 30%;
+}
+ol {
+ padding-left: 15%;
+ margin-right: 10px;
+ align-items: flex-end;
+}
+ul {
+    padding-left: 47%;
+}
