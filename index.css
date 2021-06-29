@@ -40,6 +40,15 @@ h1 {
     width: 4%;
     padding-left: 2%;
     height: 60px;
-
-    
+}
+img {
+    margin-right: 20%;
+}
+.words {
+    position: relative;
+    bottom: 220px;
+    padding-left: 5%;
+    color: white;
+    font-size:20px;
+    font-weight: 900;
 }
