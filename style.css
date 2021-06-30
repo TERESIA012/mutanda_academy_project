@@ -11,6 +11,7 @@ h5 {
     font-size: 22px;
     padding-top: 2%;
     margin-top: 1%;
+    width: 100%;
 
 }
 
@@ -48,9 +49,12 @@ body {
 }
 .commitment>i {
     color: #00acee;
+    
+    
 }
 .motivation>i {
     color: #00acee;
+    
 }
 .discipline>i {
     color: #00acee;
@@ -69,8 +73,32 @@ h6 {
     font-size: 18px;
     font-weight: bold;
 }
+/*@media only screen and (max-width:600px){
+{
+        width: 100%;
+        }
+    }*/
+
+
 @media only screen and (max-width:600px){
-div{
-    width: 50%;
+.topnav{
+    width: 100%;
 }
 }
+/*@media only screen and (max-width:600px){
+    .midnav{
+        width: 100%;
+    }
+    }
+@media only screen and (max-width:600px){
+        h5{
+            width: 100%;
+        }
+        } 
+        /*@media only screen and (max-width:600px){
+            p{
+                width: 100%;
+            }
+            } */
+        
+
