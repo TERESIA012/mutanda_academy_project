@@ -11,6 +11,7 @@
 ## Technologies used;
 * CSS
 * HTML
+# &copy;2021
 # Images of the website
 
 <img src="./assets2/screen1.png" height="400px" width="400">
